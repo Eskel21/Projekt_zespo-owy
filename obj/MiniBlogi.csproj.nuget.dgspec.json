@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\source\\repos\\MiniBlogi\\MiniBlogi.csproj": {}
+    "C:\\Users\\wojci\\Source\\Repos\\Eskel21\\Projekt_zespo-owy\\MiniBlogi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\source\\repos\\MiniBlogi\\MiniBlogi.csproj": {
+    "C:\\Users\\wojci\\Source\\Repos\\Eskel21\\Projekt_zespo-owy\\MiniBlogi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\source\\repos\\MiniBlogi\\MiniBlogi.csproj",
+        "projectUniqueName": "C:\\Users\\wojci\\Source\\Repos\\Eskel21\\Projekt_zespo-owy\\MiniBlogi.csproj",
         "projectName": "MiniBlogi",
-        "projectPath": "C:\\Users\\micha\\source\\repos\\MiniBlogi\\MiniBlogi.csproj",
-        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\source\\repos\\MiniBlogi\\obj\\",
+        "projectPath": "C:\\Users\\wojci\\Source\\Repos\\Eskel21\\Projekt_zespo-owy\\MiniBlogi.csproj",
+        "packagesPath": "C:\\Users\\wojci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wojci\\Source\\Repos\\Eskel21\\Projekt_zespo-owy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wojci\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -80,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
